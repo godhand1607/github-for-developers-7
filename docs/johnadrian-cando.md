@@ -7,3 +7,5 @@
 **FAVORITE FOOD** : Sinigang na baboy (Filipino Cuisine)
 
 **HOBBY** : Running
+
+**FAVORITE COLOR** : Gray
